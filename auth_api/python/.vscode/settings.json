@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "python3",
+    "code-runner.executorMap": {
+    "python3": "/usr/bin/python3"
+}
+}
